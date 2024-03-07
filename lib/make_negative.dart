@@ -1,7 +1,1 @@
-num makeNegative(n) {
-  if (n > 0) {
-    return n * -1;
-  } else {
-    return n;
-  }
-}
+num makeNegative(n) => n > 0 ? n * -1 : n;
