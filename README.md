@@ -18,3 +18,7 @@ makeNegative(0.12); // return -0.12
 > Notes:
 - The number can be negative already, in which case no change is required.
 - Zero (0) is not checked for any specific sign. Negative zeros make no mathematical sense.
+
+## What you will need
+
+The [Software Development Kit](https://dart.dev/get-dart) of Dart that gives us the necessary tools to work with the language. In addition to using an IDE like [IntelliJ IDEA](https://www.jetbrains.com/idea/) with the Dart plugin or  [Visual Studio Code](https://code.visualstudio.com/) with the Dart Code extension.
